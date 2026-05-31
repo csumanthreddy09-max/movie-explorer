@@ -1,7 +1,7 @@
 import streamlit as st
 import requests
 
-BASE_URL = "https://movie-explorer-3-0.onrender.com/"
+BASE_URL = "https://movie-explorer-3-0.onrender.com"
 
 st.title("🎬 Movie Explorer App")
 
